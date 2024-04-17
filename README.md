@@ -9,4 +9,4 @@ Open the solution in Visual Studio.
 Build the solution to restore dependencies.
 Run the test script.
 Report
-The test script can generate a report of the test run using a logging framework such as log4net or NLog. You can configure the logging framework to log test steps, results, and any errors encountered during execution. Ensure that the log file is easily accessible and includes timestamps for each entry.
+The test script can generate a report of the test run using Extend Reports. You can use extent report for test steps, results, and any errors encountered during execution. Ensure that the log file is easily accessible and includes timestamps for each entry.
